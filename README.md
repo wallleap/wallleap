@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Luwang</h1>
 
 <p align="center">
-  <a href="maito:15579576761@163.com">📫 Email</a> | <a href="https://myblog.wallleap.cn">🎨 Blog</a>
+  📫 <a href="maito:15579576761@163.com">Email</a> | 🎨 <a href="https://myblog.wallleap.cn">Blog</a>
 </p>
 
 ## 👻 About me
