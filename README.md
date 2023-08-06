@@ -1,13 +1,10 @@
-# Hi there 👋
+<center><h1>Hi there 👋, I'm Luwang</h1></center>
+
+<center><a href="maito:15579576761@163.com">📫 Email</a> | <a href="https://myblog.wallleap.cn">🎨 Blog</a></center>
 
 ## 👻 About me
 
 🧑🏻‍💻 I am a member of the post-1995 generation, and I have obtained a bachelor's degree in the field of network engineering. My skill set includes proficiency in design, front-end development, and culinary arts.
-
-📫 How to reach me: 
-
-- Email: <a href="maito:15579576761@163.com">15579576761@163.com</a>
-- Blog: <a href="https://myblog.wallleap.cn">wallleap</a>
 
 ## 📟 Languages and tools 
 
