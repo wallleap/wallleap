@@ -29,5 +29,5 @@
 <!-- These are built by [github-readme-stats](https:github.com/anuraghazra/github-readme-stats) -->
 
 <p align="right">
-<a href="https://myblog.wallleap.cn"><img height="40" src="./.images/blog.svg" /></a>
+<a href="https://myblog.wallleap.cn"><img height="40" src="./.images/goto.svg" /></a>
 </p>
