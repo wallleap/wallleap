@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Luwang</h1>
 
 <p align="center">
-  📫 <a href="maito:luwang@oicode.cn">Email</a> | 🎨 <a href="https://myblog.wallleap.cn">Blog</a>
+  <a href="maito:luwang@oicode.cn"><img height="40" src="./.images/email.svg" /></a>
+  <a href="https://myblog.wallleap.cn"><img height="40" src="./.images/blog.svg" /></a>
 </p>
 
 ## 👻 About me
