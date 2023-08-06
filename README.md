@@ -28,5 +28,6 @@
 
 <!-- These are built by [github-readme-stats](https:github.com/anuraghazra/github-readme-stats) -->
 
-<a align="right" href="https://myblog.wallleap.cn"><img height="40" src="./.images/blog.svg" /></a>
-
+<p align="right">
+<a href="https://myblog.wallleap.cn"><img height="40" src="./.images/blog.svg" /></a>
+</p>
