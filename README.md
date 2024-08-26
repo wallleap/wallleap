@@ -5,9 +5,9 @@
   <a href="https://myblog.wallleap.cn"><img height="40" src="./.images/blog.svg" /></a>
 </p>
 
-## 👻 About me
-
-🧑🏻‍💻 I am a member of the post-1995 generation, and I have obtained a bachelor's degree in the field of network engineering. My skill set includes proficiency in design, front-end development, and culinary arts.
+> [!IMPORTANT]
+> ## 👻 About me
+> 🧑🏻‍💻 I am a member of the post-1995 generation, and I have obtained a bachelor's degree in the field of network engineering. My skill set includes proficiency in design, front-end development, and culinary arts.
 
 ## 📟 Languages and tools 
 
