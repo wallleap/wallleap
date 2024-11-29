@@ -24,7 +24,7 @@
 
 ## 📦 Open source projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wallleap&repo=ethereal&theme=dark)](https://github.com/wallleap/ethereal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wallleap&repo=ethereal&theme=dark)](https://github.com/wallleap/ethereal) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wallleap&repo=plain&theme=dark)](https://github.com/wallleap/plain)
 
 <!-- These are built by [github-readme-stats](https:github.com/anuraghazra/github-readme-stats) -->
 
